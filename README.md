@@ -2,6 +2,8 @@
 
 Android Library to show dots Animation on a android textview to show loading type of thing 
 
+![](https://github.com/rajputkapil/textviewdotsanimation/blob/master/app/src/main/res/raw/loading.gif)
+
 ### To get a Library into your build:
 
 Step 1. Add the JitPack repository to your build file 
@@ -18,9 +20,11 @@ maven { url 'https://jitpack.io' }
   
 Step 2. Add the dependency in your app level gradle
   
-`dependencies {
-	  implementation 'com.github.rajputkapil:textviewdotsanimation:v1.0'
-}`
+```
+dependencies { 
+	implementation 'com.github.rajputkapil:textviewdotanimation:v1.0'
+}
+```
   
 ### Features
  
