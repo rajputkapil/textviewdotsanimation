@@ -22,7 +22,7 @@ Step 2. Add the dependency in your app level gradle
   
 ```
 dependencies { 
-	implementation 'com.github.rajputkapil:textviewdotanimation:v1.0'
+	implementation 'com.github.rajputkapil:textviewdotsanimation:v1.0'
 }
 ```
   
